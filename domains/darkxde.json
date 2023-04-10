@@ -1,0 +1,11 @@
+{
+    "description": "Portfolio page",
+    "repo": "https://github.com/Darkxde/darkxde.github.io.git",
+    "owner": {
+        "username": "darkxde",
+        "email": "mariaoavagliano6@gmail.com",
+    },
+    "record": {
+        "CNAME": "darkxde.github.io"
+    }
+} 
